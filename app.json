@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "repository": "https://github.com/Legends-Lxp/LEGENDBOT-V9/",
+  "website": "https://github.com/LEGEND-LX/LEGENDBOT-V9/",
+  "success_url": "https://t.me/Invisible_LegendBot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
+      "description": "Fill your Full name. By default it is LEGENDS-LXP User",
       "value": "LEGEND-LX",
       "required": false
     },
@@ -34,7 +34,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@Invisible_LegndBot",
       "required": false
     },
     "YOUR_CHANNEL": {
